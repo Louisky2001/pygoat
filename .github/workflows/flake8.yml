@@ -8,7 +8,7 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-testing to show how edited source code in GitHub, alerts wazuh (SIEM)
+Testing to show how edited source code in GitHub, alerts wazuh (SIEM)
 
 jobs:
   build:
